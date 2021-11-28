@@ -10,7 +10,7 @@
    <tr>
     <td> Подменить url в Charles чтобы в запросе ушло имя которые вы вписали в Postman, а вернулось то, которое вы подставили в Charles.
     <br> 
-    <td><img src=" " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/56df7cb3e997697ad1f34f8be71fca235241be1c/screen/1.png" width="480" height="226"></td>
    </tr>
    <tr>
     <td> Подменить body в Charles так чтобы в запросе ушла salary которую вы вписали в Postman, а в u_salary_1_5_year цифра вернулась меньше оригинальной из запроса.
