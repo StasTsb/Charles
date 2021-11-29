@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1>Homework</h1>
+<h1>Homework Charles</h1>
 
 <html>
  <head>
@@ -17,37 +17,38 @@
     <br> 
     <br> 
     <br> 
-    <td><img src="https://github.com/StasTsb/Charles/blob/beb11f82271aaef52658cd76abc672aa39bebe23/screen/2.png" width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/beb11f82271aaef52658cd76abc672aa39bebe23/screen/2.png" width="580" height="226"></td>
   </tr>
     <tr>
     <td> Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
     <br> 
     <br> 
-    <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/3.png" width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/3.png" width="580" height="226"></td>
    </tr>
    <tr>
     <td> Сделать через Charles так, чтобы сервер вернул 500 код.
     <br> Сделать через Charles так, чтобы сервер вернул 405 код.
     <br> 
     <br> 
-    <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/4.png" width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/4.png" width="580" height="226"></td>
   </tr>
     <tr>
     <td> 
     <br> Подменить salary в request
     <br> Подменить (salary * 2) в response
     <br>
-    <td><img src="https://github.com/StasTsb/Charles/blob/b6f7f5cd9737294329f4f747c7911ee614677b7c/screen/5.png" width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/b6f7f5cd9737294329f4f747c7911ee614677b7c/screen/5.png" width="580" height="226"></td>
      </tr>
     <tr>
     <td> Сделать через Charles так, чтобы сервер вернул 405 ошибку.
-    <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/5.1.png" width="480" height="226"></td>
+     <td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/5.1.png" width="580" height="226"></td>
    </tr>
     <tr>
     <td> Сделать через Charles так, чтобы в Postman вернулся ответ, в котором qa_salary_after_1.5_year переименовано в qa_salary_after_1.5_month
     <br> Сделать так чтобы qa_salary_after_3.5_years было меньше qa_salary_after_12_months в response 
     <br> 
-    <td><img src="https://github.com/StasTsb/Charles/blob/b6f7f5cd9737294329f4f747c7911ee614677b7c/screen/6.png" width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/b6f7f5cd9737294329f4f747c7911ee614677b7c/screen/6.png" width="580" height="226"></td>
    </tr>
   </tr>
  </table>
