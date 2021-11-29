@@ -41,6 +41,7 @@
      </tr>
     <tr>
     <td> Сделать через Charles так, чтобы сервер вернул 405 ошибку.
+     <br>
     <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/5.1.png" width="480" height="226"></td>
    </tr>
     <tr>
