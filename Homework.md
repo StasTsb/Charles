@@ -17,7 +17,7 @@
     <br> 
     <br> 
     <br> 
-    <td><img src="  " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/beb11f82271aaef52658cd76abc672aa39bebe23/screen/2.png" width="480" height="226"></td>
   </tr>
     <tr>
     <td> Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
