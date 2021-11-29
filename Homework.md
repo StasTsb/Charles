@@ -23,14 +23,14 @@
     <td> Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
     <br> 
     <br> 
-    <td><img src="  " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/3.png" width="480" height="226"></td>
    </tr>
    <tr>
     <td> Сделать через Charles так, чтобы сервер вернул 500 код.
     <br> Сделать через Charles так, чтобы сервер вернул 405 код.
     <br> 
     <br> 
-    <td><img src="  " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/4.png" width="480" height="226"></td>
   </tr>
     <tr>
     <td> Сделать через Charles так, чтобы сервер вернул 405 ошибку.
