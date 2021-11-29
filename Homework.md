@@ -37,7 +37,14 @@
     <br> Подменить salary в request
     <br> Подменить (salary * 2) в response
     <br> 
-    <td><img src="  " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Charles/blob/b6f7f5cd9737294329f4f747c7911ee614677b7c/screen/5.png" width="480" height="226"></td>
+     </tr>
+    <tr>
+    <td> Сделать через Charles так, чтобы сервер вернул 405 ошибку.
+    <br> Подменить salary в request
+    <br> Подменить (salary * 2) в response
+    <br> 
+    <td><img src="https://github.com/StasTsb/Charles/blob/d982c31cca9c34b406d671d027897bdddd696419/screen/5.1.png" width="480" height="226"></td>
    </tr>
     <tr>
     <td> Сделать через Charles так, чтобы в Postman вернулся ответ, в котором qa_salary_after_1.5_year переименовано в qa_salary_after_1.5_month
